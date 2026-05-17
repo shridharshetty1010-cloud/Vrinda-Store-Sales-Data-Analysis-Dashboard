@@ -134,7 +134,7 @@ To improve future sales performance, Vrinda Store should focus its marketing eff
 ---
 
 ## Dashboard Preview
-Add your dashboard screenshot here:
+
 
 ![Dashboard Screenshot](dashboard.png)
 
@@ -152,16 +152,7 @@ Add your dashboard screenshot here:
 
 ---
 
-## Repository Structure
 
-Vrinda-Store-Sales-Analysis/
-│
-├── Raw_Data.xlsx
-├── Vrinda_Store_Dashboard.xlsx
-├── dashboard.png
-└── README.md
-
----
 
 ## Project Outcome
 This project demonstrates an end-to-end analytics workflow by transforming raw business data into meaningful insights and actionable recommendations, simulating a real-world business analyst use case.
